@@ -63,18 +63,18 @@ My Primary interest is how to improve things(Database, Infra, etc.. )
 1. 학교가자 (2019) : 학점교류 정보 교환 커뮤니티
 - Python Django, HTML5, CSS3, JavaScript
 - Team Leader, Full Stack
-- (https://github.com/siyeons/gotoSchool)
-- (http://schoolgaza.herokuapp.com) 
+- [Github Link](https://github.com/siyeons/gotoSchool)
+- [Website Link](http://schoolgaza.herokuapp.com) 
 
 2. 숙명여대 수강신청 사이트 (2019)  
 - JSP, Apache Tomcat, Oracle, Java
 - Front-end, PL/SQL, Database
-- (https://github.com/siyeons/classRegister)
+- [Link](https://github.com/siyeons/classRegister)
 
 3. 크루크루 (진행중) : 숙명여대 전용 운동 크루 커뮤니티
 - Node.js, Express, ejs, Java, Android, AWS RDS, S3
 - Full stack(Web part)
-- (https://github.com/CREW-CREW/CREW-CREW-SERVER)
+- [Link](https://github.com/CREW-CREW/CREW-CREW-SERVER)
 
 4. POLLYSK (진행중) : 편리한 키오스크를 위한 웹앱
 - Node.js, Express, React.js, AWS Polly, Lambda, Elastic Beanstalk, RDS, S3
@@ -85,16 +85,16 @@ My Primary interest is how to improve things(Database, Infra, etc.. )
 1. 솝커톤 TT, Trick or Treat (2019)
 - Node.js, Express, Swift, AWS RDS, S3
 - Server
-- (https://github.com/siyeons/SOPTKATHON-TT-SERVER)
+- [Link](https://github.com/siyeons/SOPTKATHON-TT-SERVER)
 
 2. Collaborative Filtering을 통한 취향 기반 책 추천 시스템 (2019)
 - Python
-- (https://github.com/siyeons/bookRecommendation) --> Private Repo
+- [Link](https://github.com/siyeons/bookRecommendation) --> Private Repo
 
 3. 뉴비톤 래퍼-비트메이커 매칭 서비스 (2019)
 - Python Django, HTML5 + CSS3 + Javascript 
 - Backend
-- (https://github.com/siyeons/letsGetit) --> Private Repo
+- [Link](https://github.com/siyeons/letsGetit) --> Private Repo
 
 4. 아두이노를 이용한 스마트 슈즈 (2019)
 - Arduino, App Inventor
@@ -102,12 +102,12 @@ My Primary interest is how to improve things(Database, Infra, etc.. )
 5. AWS 해커톤 노인-대학생 기술 매칭 서비스 (2018)
 - Ruby on Rails, HTML5 + CSS3 + Javascript, AWS S3
 - Backend
-- (https://github.com/siyeons/wonderWomany) --> Private Repo
+- [Link](https://github.com/siyeons/wonderWomany) --> Private Repo
 
 6. 멀티캠퍼스 유치원 출결관리 시스템 GUI 프로그램 (2018)
 - Java, Oracle, ojdbc
 - Database, UI
-- (https://github.com/siyeons/mulcamKindergarten) --> Private Repo
+- [Link](https://github.com/siyeons/mulcamKindergarten) --> Private Repo
 
 7. 공공API를 이용한 해외여행 안전지 제공 서비스 (2018)
 - Ruby on rails
