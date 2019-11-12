@@ -6,7 +6,7 @@ date: 2019-11-12
 comments: false
 ---
 
-<center><b>Portfolio && Knowledge Database</b></center>
+<b>Portfolio && Knowledge Database</b>
 
 ## Profile
 * Name : 이시연
