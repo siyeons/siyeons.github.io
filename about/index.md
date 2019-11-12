@@ -124,4 +124,4 @@ My Primary interest is how to improve things(Database, Infra, etc.. )
 # Contact
 * Email : siyeonleeme@gmail.com
 * Facebook : [Siyeon Lee](https://www.facebook.com/sianlee1114)
-* Tistory : [Study Database](heetorydb.tistory.com)
+* Tistory : [Study Database](https://heetorydb.tistory.com)
