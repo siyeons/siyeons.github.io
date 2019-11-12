@@ -1,8 +1,8 @@
   
 # Site
 title:              Siyeon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Here comes the sun!'
+description:        "보고 배운 것과 생각한 것을 기록합니다."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   siyeon
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -39,19 +39,19 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:            username
+facebook:           facebook.com/sianlee1114
+github-url:         github.com/siyeons
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          siyeon.me
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
