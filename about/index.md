@@ -6,7 +6,7 @@ date: 2019-11-12
 comments: false
 ---
 
-<center><a href="http://taylantatli.github.io/Moon"><b>Portfolio && Knowledge Database</b></center>
+<center><b>Portfolio && Knowledge Database</b></center>
 
 ## Profile
 * Name : 이시연
