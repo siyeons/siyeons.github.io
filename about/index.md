@@ -54,6 +54,7 @@ My Primary interest is how to improve things(Database, Infra, etc.. )
 
 &nbsp;
 # Certificates 🏆
+* AWS 코리아 공공부문 대표상 (2019.11)
 * SQLD(데이터베이스 개발자 자격증) (2019.09)
 * 숙명여자대학교 WIC 해커톤 우수상 (2018.11)
 * 학력우수상 (2016-09)
@@ -76,9 +77,9 @@ My Primary interest is how to improve things(Database, Infra, etc.. )
 - Full stack(Web part)
 - [Link](https://github.com/CREW-CREW/CREW-CREW-SERVER)
 
-4. POLLYSK (진행중) : 편리한 키오스크를 위한 웹앱
-- Node.js, Express, React.js, AWS Polly, Lambda, Elastic Beanstalk, RDS, S3
-- Server, Database
+4. POLLYSK : 편리한 키오스크를 위한 웹앱
+- Node.js, Express, React.js, AWS Polly, AWS Rekognition, AWS RDS, AWS EC2, AWS S3
+- Server, Rekognition(Machine Learning), Database
 
 &nbsp;
 # Toy projects 🤖
