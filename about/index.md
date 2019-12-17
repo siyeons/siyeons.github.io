@@ -11,12 +11,11 @@ comments: false
 * Github : [Github](github.com/siyeons)
 
 항상 배워나가는 주니어 개발자입니다. 
-여러 형태의 데이터베이스들을 좋아합니다. 데이터베이스와 인프라 성능 개선을 공부하고 있습니다. 
-새로운 걸 창조하는 것도 좋지만 현재의 것들을 안정적으로 다루고, 또 보다 효율적으로 개선해나가는 것을 좋아합니다.
+현재 신입 클라이언트 입사 예정이며 1일 n커밋에 도전중입니다! 
 
 &nbsp;
 # Skills 👩‍💻
-1. Language : Python, Java
+1. Language : Python, Java, JavaScript
 2. Framework : Python Django, Node.js & Express
 3. Database : Oracle, MySQL, MariaDB, DynamoDB
 4. Cloud Infra : AWS
@@ -25,9 +24,9 @@ comments: false
 # Interests 📖
 1. Database : Query processing, Query optimization, Indexing, Graph DB
 2. Cloud : AWS Migration Service, Neptune, Database, MS Azure
-3. Tech Stack : Elastic Search(+ELK), Mongo DB, Redis, Docker
+3. Frontend : Vue.js, React
 
-My Primary interest is how to improve things(Database, Infra, etc.. )
+My Primary interest is how to improve things 🚀
 
 &nbsp;
 # Work Experience 📝
@@ -61,56 +60,56 @@ My Primary interest is how to improve things(Database, Infra, etc.. )
 
 &nbsp;
 # Projects 💻
-1. 학교가자 (2019) : 학점교류 정보 교환 커뮤니티
+1. POLLYSK (2019) : 편리한 키오스크를 위한 웹앱
+- Node.js, Express, React.js, AWS Polly, AWS Rekognition, AWS RDS, AWS EC2, AWS S3
+- Server, Rekognition(Machine Learning), Database
+
+2. 크루크루 (2019) : 숙명여대 전용 운동 크루 커뮤니티
+- Node.js, Express, ejs, Java, Android, AWS RDS, S3
+- Full stack(Web part)
+- [Link](https://github.com/CREW-CREW/CREW-CREW-SERVER)
+
+3. 학교가자 (2019) : 학점교류 정보 교환 커뮤니티
 - Python Django, HTML5, CSS3, JavaScript
 - Team Leader, Full Stack
 - [Github Link](https://github.com/siyeons/gotoSchool)
 - [Website Link](http://schoolgaza.herokuapp.com) 
 
-2. 숙명여대 수강신청 사이트 (2019)  
-- JSP, Apache Tomcat, Oracle, Java
-- Front-end, PL/SQL, Database
-- [Link](https://github.com/siyeons/classRegister)
-
-3. 크루크루 (진행중) : 숙명여대 전용 운동 크루 커뮤니티
-- Node.js, Express, ejs, Java, Android, AWS RDS, S3
-- Full stack(Web part)
-- [Link](https://github.com/CREW-CREW/CREW-CREW-SERVER)
-
-4. POLLYSK : 편리한 키오스크를 위한 웹앱
-- Node.js, Express, React.js, AWS Polly, AWS Rekognition, AWS RDS, AWS EC2, AWS S3
-- Server, Rekognition(Machine Learning), Database
-
 &nbsp;
 # Toy projects 🤖
-1. 솝커톤 TT, Trick or Treat (2019)
+1. Sockttery (201)
+- Node.js, Express, AWS RDS, Swift, Kotiln
+- Server
+- [Link](https://github.com/siyeons/Sockttery-Server)
+
+2. 솝커톤 TT, Trick or Treat (2019)
 - Node.js, Express, Swift, AWS RDS, S3
 - Server
 - [Link](https://github.com/siyeons/SOPTKATHON-TT-SERVER)
 
-2. Collaborative Filtering을 통한 취향 기반 책 추천 시스템 (2019)
+3. Collaborative Filtering을 통한 취향 기반 책 추천 시스템 (2019)
 - Python
 - [Link](https://github.com/siyeons/bookRecommendation) --> Private Repo
 
-3. 뉴비톤 래퍼-비트메이커 매칭 서비스 (2019)
+4. 뉴비톤 래퍼-비트메이커 매칭 서비스 (2019)
 - Python Django, HTML5 + CSS3 + Javascript 
 - Backend
 - [Link](https://github.com/siyeons/letsGetit) --> Private Repo
 
-4. 아두이노를 이용한 스마트 슈즈 (2019)
+5. 아두이노를 이용한 스마트 슈즈 (2019)
 - Arduino, App Inventor
 
-5. AWS 해커톤 노인-대학생 기술 매칭 서비스 (2018)
+6. AWS 해커톤 노인-대학생 기술 매칭 서비스 (2018)
 - Ruby on Rails, HTML5 + CSS3 + Javascript, AWS S3
 - Backend
 - [Link](https://github.com/siyeons/wonderWomany) --> Private Repo
 
-6. 멀티캠퍼스 유치원 출결관리 시스템 GUI 프로그램 (2018)
+7. 멀티캠퍼스 유치원 출결관리 시스템 GUI 프로그램 (2018)
 - Java, Oracle, ojdbc
 - Database, UI
 - [Link](https://github.com/siyeons/mulcamKindergarten) --> Private Repo
 
-7. 공공API를 이용한 해외여행 안전지 제공 서비스 (2018)
+8. 공공API를 이용한 해외여행 안전지 제공 서비스 (2018)
 - Ruby on rails
 - XML Parsing(nokogiri), Data Visualization(chartkick.js)
 
@@ -125,4 +124,3 @@ My Primary interest is how to improve things(Database, Infra, etc.. )
 # Contact
 * Email : siyeonleeme@gmail.com
 * Facebook : [Siyeon Lee](https://www.facebook.com/sianlee1114)
-* Tistory : [Study Database](https://heetorydb.tistory.com)
