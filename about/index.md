@@ -11,7 +11,7 @@ comments: false
 * Github : [Github](github.com/siyeons)
 
 항상 배워나가는 주니어 개발자입니다. 
-현재 신입 클라이언트 입사 예정이며 1일 n커밋에 도전중입니다! 
+현재 신입 프론트엔드 개발자로 일하고 있습니다!
 
 &nbsp;
 # Skills 👩‍💻
@@ -77,7 +77,7 @@ My Primary interest is how to improve things 🚀
 
 &nbsp;
 # Toy projects 🤖
-1. Sockttery (201)
+1. Sockttery (2019)
 - Node.js, Express, AWS RDS, Swift, Kotiln
 - Server
 - [Link](https://github.com/siyeons/Sockttery-Server)
